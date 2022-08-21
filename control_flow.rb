@@ -59,6 +59,6 @@ def calculator(operation, num1, num2)
 
   end
 end
-puts calculator("+", 2, 3)
+puts calculator("+", 5, 8)
 
 
